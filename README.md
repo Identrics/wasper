@@ -1,2 +1,2 @@
-# wasper
-AI Propaganda Detection
+# WASPer
+Propaganda Techniques Taxonomy
