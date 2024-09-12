@@ -1,0 +1,2 @@
+# wasper
+AI Propaganda Detection
