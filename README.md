@@ -3,7 +3,7 @@ Propaganda Techniques Taxonomy
 
 A four-level hierarchical taxonomy designed to systematically detect AI-generated propaganda and its type in both traditional media comment sections and social media platforms.
 
-![WASPer Taxonomy]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/Identrics/wasper/blob/main/WASPer_taxonomy.png))
+![WASPer Taxonomy]((https://raw.githubusercontent.com/Identrics/wasper/main/WASPer_taxonomy.png))
 
 ## Citation
 
