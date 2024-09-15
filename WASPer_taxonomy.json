@@ -1,0 +1,96 @@
+{
+    "Taxonomy": {
+        "Human": {
+            "Definition": "Human/Organic examples are comments sourced from traditional or social media that are assumed to be human-generated content, representing natural, unaltered communication by individuals or organisations."
+        },
+        "AI-Generated": {
+            "Definition": "AI-generated/Synthetic examples are AI-generated pieces of content created by large language models (LLMs).",
+            "Propaganda vs. No Propaganda": {
+                "No Propaganda": {
+                    "Definition": "The content  lacks any propaganda content and/or identifiable techniques."
+                },
+                "Propaganda": {
+                    "Definition": "A piece of content associated with propaganda has been detected; this doesn't guarantee that the entire piece is propaganda — only that a manipulative method has been identified.",
+                    "Categories": {
+                        "Legitimisation Techniques": {
+                            "Appeal to Authority": {
+                                "Definition": "Stating that a claim is true simply because a particular entity considered an authority said it was true, without offering actual supporting evidence. The entity mentioned as an authority may, but does not need to be an actual valid authority in the domain-specific field to discuss a particular topic. The authority may not even be a particular entity but a general concept, e.g. “science”, “the Bible”, or “old and wise people”."
+                            },
+                            "Appeal to History": {
+                                "Definition": "The use of historical arguments to justify or undermine an idea in the present. The technique rests upon the understanding that historical events have moral values, so the actions of nations, governments, and leaders in the past should dictate present-day views, allegiances, and actions. For example, a nation's past involvement in wars can be used as an argument that said nation is \"good\" or \"evil\". In a broader sense, it can allude to “history’s lessons” (as in \"history has shown\" or \"history teaches us\") as an argument to support or reject a viewpoint or an action in the present."
+                            },
+                            "Glittering Generalities": {
+                                "Definition": "Using words or symbols that appeal to the target audience’s value system in order to produce a positive image when attached to a person or an issue. The goal is to make the audience accept and like a person, a group, or an idea based on strongly positive associations rather than informed opinion."
+                            },
+                            "Testimonial": {
+                                "Definition": "Utilising personal stories to promote or reject an idea or a person/group of people. Such stories, told in the first or third person, claim authenticity and credibility, even though they are anecdotal and cannot be verified. Testimonial commonly appears in a supporting role and is used to amplify the effect of another technique."
+                            }
+                        },
+                        "Self-Identification Techniques": {
+                            "Appeal to Fear": {
+                                "Definition": "Attempting to scare people into either refraining from or engaging in a particular activity. The technique aims to promote or reject an idea through the repulsion or fear of the audience toward this idea (e.g., by exploiting some preconceived judgments) or toward its alternative."
+                            },
+                            "Assumed Insightfulness": {
+                                "Definition": "When using this technique, the propagandist claims to have (or belong to a group with) advanced and/or exclusive knowledge on a matter. The audience is implicitly invited to accept that knowledge as true in order to become \"enlightened\". To this end, the technique often includes claims that the majority of people do not share that knowledge because they are stupid or misled. This divide between an “in-group” of the knowledgable few and an “out-group” of the ignorant many, along with the implicit invitation to join the “in-group” by agreeing with the idea put forward, is a common element of conspiracy theories. Assumed Insightfulness is the opposite of the Bandwagon technique."
+                            },
+                            "Bandwagon": {
+                                "Definition": "Attempting to persuade the target audience to accept an idea or take an action because of their wide prevalence (“everyone else is thinking/doing so.”). This device either causes the audience to feel left out, creating a desire to be part of a larger group or salutes the audience for already being part of that group. It is, thus, the opposite of the Assumed Insightfulness technique.  A variation of the Bandwagon is the “inevitable victory” technique, which invites those not already on the bandwagon to join those already on the road to a certain victory; it may be considered the opposite of Demoralisation."
+                            },
+                            "Flag-Waving": {
+                                "Definition": "Justifying or promoting an idea by extolling the pride of a group and/or highlighting that group’s unique qualities, achievements, history, and/or mission. The stereotypical example would be national pride, but the target group it applies to might be any group, e.g., related to race, gender, political preference, etc."
+                            },
+                            "Plain Folks": {
+                                "Definition": "The \"plain folks\" or \"common man\" approach attempts to win the confidence of the audience by communicating positions that allegedly reflect the common sense of the people. The idea is that if regular people like something, then it must be good, and if they dislike it, then it must be bad. Frequently, the “plain folks” are described as victims of injustice and suffering, usually brought upon them by “elites”."
+                            },
+                            "Demoralisation": {
+                                "Definition": "This technique is mostly, but not exclusively, used in armed conflicts and before elections. Its purpose is to convince the opponent that defeat is guaranteed and, therefore, resistance is futile. It can be seen as the opposite of the Bandwagon technique, which invites everyone to join those already on the road to a certain victory. To achieve its ends, Demoralisation often quotes casualties and losses and/or makes grim predictions about the opponent's fate, inducing a spirit of defeatism and helplessness."
+                            }
+                        },
+                        "Logical Fallacies": {
+                            "Black-and-White": {
+                                "Definition": "Presenting a complex issue as a simple dilemma between mutually exclusive alternatives. Presenting only two options or sides when there are many options or sides."
+                            },
+                            "Whataboutism": {
+                                "Definition": "Attempting to discredit an opponent’s position by charging them with hypocrisy without directly disproving their argument. It could be done implicitly by underlining the contradictions between different positions that were held or actions that were done in the past."
+                            },
+                            "Oversimplification": {
+                                "Definition": "Assuming a single cause or reason, when there are multiple causes for an issue. It includes transferring blame to one person or group of people without investigating the actual complexities of the issue. Also, drawing a conclusion or making a judgement based on an argument that does not necessarily justify it. Often used to make sweeping predictions based on insufficient or unrelated evidence from the past or present. Uses of false equivalence also fall under Oversimplification."
+                            },
+                            "Least-Of-Evils": {
+                                "Definition": "This is used to justify an otherwise unpleasant or unpopular point of view by stating that the alternatives are even more undesirable.  Example: '\"War is hell but appeasement leads to worse disasters\". While it shares some traits with Black-and-White (by contrasting one option with another or all others), this technique attempts to make undesirable people, ideas, and actions appear more palatable to the audience."
+                            }
+                        },
+                        "Defamation Techniques": {
+                            "Guilt by Association": {
+                                "Definition": "Attacking the opponent or an activity by associating it with a person, group, or concept that has sharp negative connotations for the target audience. The most common example, is making comparisons to Hitler and the Nazi regime. However, it is important to emphasise that this technique is not restricted to comparisons to that group only."
+                            },
+                            "Hahaganda": {
+                                "Definition": "Undermining an opponent, a group, or an idea by ridiculing them. It can be described as a weaponisation of jokes, humour, irony, and sarcasm. Techniques such as Exaggeration/Minimisation, Oversimplification, Smears, and Stereotyping can appear in hahagandistic statements, but their purpose is solely to reinforce the humorous and satirical effect."
+                            },
+                            "Smears": {
+                                "Definition": "Attacking a target by making strong negative claims about it, focusing particularly on undermining its character, moral qualities, and behaviour. Frequently employs name-calling, i.e. giving a person or an idea a bad label by using an easy-to-remember pejorative name to make the audience reject and condemn that person or idea."
+                            },
+                            "Stereotyping": {
+                                "Definition": "Using oversimplified, dismissive, and offensive ideas or beliefs to describe an opponent or enemy. This technique attempts to arouse prejudices in an audience by labelling the object as something the target audience fears, hates, loathes, looks down upon, or finds undesirable. Examples of stereotypes include gender, generational, ethnical, national, and racial."
+                            },
+                            "Doubt": {
+                                "Definition": "Casting doubt on the attributes of someone or something in order to question their general credibility or quality, instead of using a proper argument related to the topic. Questioning accepted ideas and explanations through rhetorical questions and innuendo."
+                            }
+                        },
+                        "Rhetorical Devices": {
+                            "Thought-Terminating Cliché": {
+                                "Definition": "Statements that discourage critical thought and meaningful discussion about a given topic. They are typically short, generic sentences that offer seemingly simple answers to complex questions. Folk wisdoms, truisms, proverbs, and slogans are included here. The technique also includes common and easily recognisable metaphors used to prove or reject a point without providing factual evidence."
+                            },
+                            "Exaggeration/Minimisation": {
+                                "Definition": "Representing things as excessively large, good, and important, or as extremely small, bad, or unimportant."
+                            },
+                            "Loaded Language": {
+                                "Definition": "Using specific words and phrases with strong emotional implications (either positive or negative) to influence an audience. Loaded Language commonly appears in a supporting role and is used to amplify the effect of another technique."
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
