@@ -9,7 +9,7 @@ This repository contains the four-level hierarchical taxonomy developed to syste
 
 You can access the models, which are based on this taxonomy via the following links:
 
-[English Binary Propaganda Detection] (https://huggingface.co/identrics/EN_propaganda_detector)
+[English Binary Propaganda Detection](https://huggingface.co/identrics/EN_propaganda_detector)
 [Bulgarian Binary Propaganda Detection](https://huggingface.co/identrics/BG_propaganda_detector)
 [English Multilabel Propaganda Classification](https://huggingface.co/identrics/EN_propaganda_classifier)
 [Bulgarian Multilabel Propaganda Classification](https://huggingface.co/identrics/BG_propaganda_classifier)
