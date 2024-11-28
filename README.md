@@ -17,7 +17,7 @@ You can access the models, which are based on this taxonomy via the following li
 
 [Bulgarian Multilabel Propaganda Classification](https://huggingface.co/identrics/BG_propaganda_classifier)
 
-## Citation \[This section is to be updated soon.\]
+## Citation \[this section is to be updated soon\]
 
 If you find our work useful, please consider citing WASPer:
 
